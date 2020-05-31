@@ -1,4 +1,4 @@
-package shoohei.bmi;
+package shoohei.lessons;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
